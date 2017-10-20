@@ -21,5 +21,5 @@ public class JavaApplication1 {
    //modificacion 1 ... wilmar
     // modificacion2 ... Bryan
     //jose
-    /wilmar gay
+    // brayan me mamas 
 }
