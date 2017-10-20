@@ -18,8 +18,6 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
-    // el wilmar es gay
-    -- y tambies es maricon
+   //modificacion 1 ... wilmar
     
 }
