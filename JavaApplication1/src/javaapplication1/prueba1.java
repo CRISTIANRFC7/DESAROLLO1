@@ -8,6 +8,6 @@ package javaapplication1;
  *
  * @author Invitado_PC14
  */
-public class Brayan_Me_Mamas {
+public class prueba1 {
     
 }
