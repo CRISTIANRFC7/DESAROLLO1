@@ -22,9 +22,5 @@ public class JavaApplication1 {
     // modificacion2 ... Bryan
     //jose
     //el wilmar es gay!!..
-    ///jason m
-    //jskfkvfksv
-    //prueba
-    //55
-    //45
+    //brayan turbina cicatriz amaguña
 }
