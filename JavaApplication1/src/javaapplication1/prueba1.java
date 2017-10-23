@@ -9,5 +9,5 @@ package javaapplication1;
  * @author Invitado_PC14
  */
 public class prueba1 {
-    
+    //prueba 1
 }
