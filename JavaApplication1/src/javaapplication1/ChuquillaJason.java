@@ -8,13 +8,8 @@ package javaapplication1;
 
 /**
  *
- * @author bryan
+ * @author pppppppppppppppppppp
  */
-public class AmaguañaBryan {
-    
-    //hola mundo!!
-    //hola brayan como estas
-    //q tal brayan
-     //hola !!...
-    
+public class ChuquillaJason {
+ //hola   
 }
