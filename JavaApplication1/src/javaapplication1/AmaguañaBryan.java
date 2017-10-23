@@ -12,4 +12,6 @@ package javaapplication1;
  */
 public class AmaguañaBryan {
     
+    //hola mundo!!..
+    
 }
