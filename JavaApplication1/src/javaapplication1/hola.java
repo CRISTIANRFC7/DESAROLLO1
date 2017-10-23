@@ -11,5 +11,5 @@ package javaapplication1;
  * @author jaadc
  */
 public class hola {
-    // editado Bryan
+    
 }
