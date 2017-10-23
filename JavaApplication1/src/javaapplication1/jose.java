@@ -14,6 +14,6 @@ import javax.swing.JOptionPane;
  */
 public class jose {
     
-    // avisa si sale esto jose
+    // avisa si sale esto jose soy Jairo
     
 }
