@@ -10,5 +10,6 @@ package javaapplication1;
  */
 public class MindaWilmar {
      //hola amigo!!
+     //hola como estas
     
 }
