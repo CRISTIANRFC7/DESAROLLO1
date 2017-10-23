@@ -6,10 +6,14 @@
 
 package javaapplication1;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Joc
  */
 public class jose {
+    
+    // avisa si sale esto jose
     
 }
