@@ -11,5 +11,5 @@ package javaapplication1;
  * @author bryan
  */
 public class Bryan {
-    //hola mundo
+    
 }
